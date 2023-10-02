@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LectorQR</string>
+    <string name="indication">Escanea el codigo que decees:</string>
+    <string name="taken_photo">Escanear QR</string>
+</resources>
